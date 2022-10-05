@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 1127.0, 87.0, 754.0, 959.0 ],
+		"rect" : [ 59.0, 106.0, 640.0, 480.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -45,8 +45,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "dictionary" ],
-					"patching_rect" : [ 73.0, 186.0, 341.0, 22.0 ],
-					"text" : "dict.pack token: model: stability-ai/stable-diffusion @triggers -1"
+					"patching_rect" : [ 73.0, 186.0, 338.0, 22.0 ],
+					"text" : "dict.pack token: model: methexis-inc/img2prompt @triggers -1"
 				}
 
 			}
