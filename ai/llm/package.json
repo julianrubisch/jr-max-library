@@ -1,0 +1,28 @@
+{
+  "name": "@julianrubisch/llm",
+  "version": "1.0.0",
+  "description": "Tools to run LLMs locally or on Replicate.com",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianrubisch/jr-max-library.git"
+  },
+  "keywords": [
+    "max",
+    "stable-diffusion"
+  ],
+  "author": "Julian Rubisch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julianrubisch/jr-max-library/issues"
+  },
+  "homepage": "https://github.com/julianrubisch/jr-max-library#readme",
+  "dependencies": {
+    "node-fetch": "^2",
+    "replicate-js": "github:nicholascelestin/replicate-js"
+  }
+}
